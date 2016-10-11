@@ -1,0 +1,25 @@
+{
+  "name": "dacomp_rest_api",
+  "version": "1.0.0",
+  "description": "RESTful API for DACOMP Unilasalle",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacompunilasalle/API.git"
+  },
+  "keywords": [
+    "DACOMP",
+    "Unilasalle",
+    "DACOMP",
+    "API"
+  ],
+  "author": "Wagner Silveira <wagnerhsilveira@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dacompunilasalle/API/issues"
+  },
+  "homepage": "https://github.com/dacompunilasalle/API#readme"
+}
